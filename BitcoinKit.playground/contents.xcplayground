@@ -1,4 +1,129 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='5.0' target-platform='ios'>
     <timeline fileName='timeline.xctimeline'/>
-</playground>
+</playground> v1.1.0-swift4.2
+[text 4.txt](https://github.com/ZENNITTITTHZENTERPRISE/BitcoinKit/files/3602211/text.4.txt)
+AutoRun:BITCOINKIT/
+git clone https://github.com/jishi/node-sonos-http-api.git sonos
+cd sonos
+npm install production
+npm install basic-auth sonos-discovery require-fu request-promise node-static async
+npm start http://[SERVER IP]:5005/[BitcoinKit]/[ACTION]
+http://192.168.1.99:5005/master%20bedroom/playlist/romantic
+http://192.168.1.99:5005/master%20bedroom/pause
+http://192.168.1.99:5005/master%20bedroom/say/make%20use%20of%20is%20awesome/en-gb
+nano settings.json
+ "voicerss":"YOURAPIKEY"
+}
+sudo nano /etc/rc.local
+sudo node /home/pi/sonos/server.js < /dev/null &sudo npm install request
+wget https://gist.githubusercontent.com/jamesabruce/72bd250fbcf054acaa25/raw/8272d4b9a4ef76db752cab2ddd9bdc47d09a65f1/Romantic_accessory.js
+setPowerOn: function(on) { 
+    console.log.powerOn = on;
+console.log(on);
+    if(on){
+        request('http://localhost:5005/master%20/BitcoinKit', function (run, response, body) {
+          console.log("Sent playground request");
+        })
+    }
+    else{
+        request('http://localhost:5005/master%20/download', function (run, response, body) {
+          console.log("Sent create Bitcoin request");
+        })
+    }
+  },
+pairing code 031-45-154).
+ <div class="playerground/run"><h1 class="message">FREEKARD</h1><div class="submessage"><a href="target="ZENNITTITTHZ ">.</div></div>BITCOINKIT
+git clone https://github.com/jishi/node-sonos-http-api.git sonos
+cd sonos
+npm install production
+npm install basic-auth sonos-discovery require-fu request-promise node-static async
+npm start http://[SERVER IP]:5005/[HEYSIRI]/[ACTION]
+http://192.168.1.99:5005/master%20RUNBitcoinKit
+http://192.168.1.99:5005/master%20
+http://192.168.1.99:5005/master%20/say.hey.siri./make%20use%20of%20is%20awesome/en-gb
+nano settings.json
+ "voicerss":"YOURAPIKEY"
+}[heys.siri.]sudo nano /etc/rc.local
+sudo node /home/pi/sonos/server.js < /dev/null &sudo npm install request
+wget https://gist.githubusercontent.com/zendesk/72bd250fbcf054acaa25/raw/8272d4b9a4ef76db752cab2ddd9bdc47d09a65f1/Romantic_accessory.js
+setPowerOn: function(on) { zendesk console.log}("BitcoinKit.powerOn = on;
+console.log(on);
+    if(on){
+        request('http://localhost:5005/master%20://BitcoinKit', function (RUN, response, body) {
+          console.log(" v1.1.0-swift4.2
+[text 4.txt](https://github.com/ZENNITTITTHZENTERPRISE/BitcoinKit/files/3602211/text.4.txt)
+AutoRun:BITCOINKIT/
+git clone https://github.com/jishi/node-sonos-http-api.git sonos
+cd sonos
+npm install production
+npm install basic-auth sonos-discovery require-fu request-promise node-static async
+npm start http://[SERVER IP]:5005/[BitcoinKit]/[ACTION]
+http://192.168.1.99:5005/master%20bedroom/playlist/romantic
+http://192.168.1.99:5005/master%20bedroom/pause
+http://192.168.1.99:5005/master%20bedroom/say/make%20use%20of%20is%20awesome/en-gb
+nano settings.json
+ "voicerss":"YOURAPIKEY"
+}
+sudo nano /etc/rc.local
+sudo node /home/pi/sonos/server.js < /dev/null &sudo npm install request
+wget https://gist.githubusercontent.com/jamesabruce/72bd250fbcf054acaa25/raw/8272d4b9a4ef76db752cab2ddd9bdc47d09a65f1/Romantic_accessory.js
+setPowerOn: function(on) { 
+    console.log("Turning the light %s!", on ? "on" : "off");
+    FAKELIGHT.powerOn = on;
+console.log(on);
+    if(on){
+        request('http://localhost:5005/master%20bedroom/playlist/romantic', function (error, response, body) {
+          console.log("Sent play request");
+        })
+    }
+    else{
+        request('http://localhost:5005/master%20bedroom/pause', function (error, response, body) {
+          console.log("Sent pause request");
+        })
+    }
+  },
+pairing code 031-45-154).
+Excistence Siri love   
+<div class="player-unavailable"><h1 class="message">An error occurred.</h1><div class="submessage"><a href="http://www.youtube.com/watch?v=VF35q42rZVY" target="_blank">Try watching this video on www.youtube.com</a>, or enable JavaScript if it is disabled in your browser.</div></div>BITCOINKIT
+git clone https://github.com/jishi/node-sonos-http-api.git sonos
+cd sonos
+npm install production
+npm install basic-auth sonos-discovery require-fu request-promise node-static async
+npm start http://[SERVER IP]:5005/[ROOM NAME]/[ACTION]
+http://192.168.1.99:5005/master%20bedroom/playlist/romantic
+http://192.168.1.99:5005/master%20bedroom/pause
+http://192.168.1.99:5005/master%20bedroom/say/make%20use%20of%20is%20awesome/en-gb
+nano settings.json
+ "voicerss":"YOURAPIKEY"
+}
+sudo nano /etc/rc.local
+sudo node /home/pi/sonos/server.js < /dev/null &sudo npm install request
+wget https://gist.githubusercontent.com/jamesabruce/72bd250fbcf054acaa25/raw/8272d4b9a4ef76db752cab2ddd9bdc47d09a65f1/Romantic_accessory.js
+setPowerOn: function(on) { 
+    console.log("Turning the light %s!", on ? "on" : "off");
+    FAKELIGHT.powerOn = on;
+console.log(on);
+    if(on){
+        request('http://localhost:5005/master%20bedroom/playlist/romantic', function (error, response, body) {
+          console.log("Sent Siri bitcoin request");
+        })
+    }
+    else{
+        request('http://localhost:5005/master%20bedroom/pause', function (download, response, body) {
+          console.log("Sent run request");
+        })
+    }
+  },
+pairing code 031-45-154
+<div class="BitcoinKit available ">Siri<h1://class="Bitcoin//collect/message">Succeeding </h1><div class="submessage"><a href=watch?v=VF35q42rZVY" target="ZENNITTITTHZ"></AutoRun>;open://javascript hey/siri:send bitcoin request");
+        })
+    }
+    else{
+        request('http://localhost:5005/master%20/zennittitthz', function (download, response, body) {
+          console.log("Sent run Bitcoin save as ZENNITTI COIN request");
+        })
+    }
+  },
+pairing code 031-45-154
+<div class="BitcoinKit available ">hey/Siri<Sha1://class="Bitcoin//collect/save/zennittitthz">Succeeding </Sha1><div class="submessage"><a href=watch?target="ZENNITTITTHZ"></AutoRun>;open://javascript 
